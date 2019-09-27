@@ -41,7 +41,6 @@
 
 **:q!**是不保存退出
 
------
 
 ### 快捷操作
 
@@ -128,4 +127,5 @@
 
 第二步：进入**正常模式**，输入你要去的行数  10 + **Shift + g**
 
-![1569569070330](C:\Users\geek20\AppData\Roaming\Typora\typora-user-images\1569569070330.png)
+![](https://raw.githubusercontent.com/201500317/markdown_upload/master/img/20190927153646.png)
+
